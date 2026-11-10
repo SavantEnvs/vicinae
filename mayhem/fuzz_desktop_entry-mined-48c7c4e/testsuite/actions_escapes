@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=My\sApp
+Exec=env FOO="a b" sh -c "echo \\"hi\\"" %F
+Terminal=true
+Actions=a;b;
+
+[Desktop Action a]
+Name=A
+Name[de_DE@euro]=Aa
+Exec=app --a

@@ -1,0 +1,7 @@
+# comment
+[Desktop Entry]
+Type=Link
+Name=Site
+URL=https://example.com
+Hidden=false
+OnlyShowIn=GNOME;KDE;
